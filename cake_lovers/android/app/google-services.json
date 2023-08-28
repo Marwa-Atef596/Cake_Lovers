@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94515234680",
+    "project_id": "cake-lovers-16e7c",
+    "storage_bucket": "cake-lovers-16e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94515234680:android:fa5b321978e943d9e76a8d",
+        "android_client_info": {
+          "package_name": "com.example.cake_lovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94515234680-kteukoog5nn2f6dgqtsg3s1e4dqi17p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuioI5b3NYtSkAuNpfAyKXlSktxYIWIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94515234680-kteukoog5nn2f6dgqtsg3s1e4dqi17p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
